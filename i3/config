@@ -180,6 +180,6 @@ bindsym $mod+r mode "resize"
 
 
 gaps inner 7
-gaps outer 7
+gaps outer 4
 
 client.focused #64646466 #64646466 #ffffff #64646466 #64646466
