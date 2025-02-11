@@ -1,0 +1,12 @@
+configuration {
+  modes: [ combi ];
+  combi-modes: [ window, drun, run ];
+}
+
+@theme "DarkBlue"
+ 
+/* Insert theme modifications after this */
+entry {
+    placeholder: "Yo sup watchu wanna search";
+    cursor: pointer;
+}
